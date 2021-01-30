@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.exe
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.deps.json
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.runtimeconfig.json
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.dll
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\bin\Debug\netcoreapp3.1\AbstractFabric.pdb
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.AssemblyInfo.cs
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.dll
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.pdb
+C:\Users\Professional\source\repos\AbstractFabric\AbstractFabric\obj\Debug\netcoreapp3.1\AbstractFabric.genruntimeconfig.cache
